@@ -18,3 +18,5 @@ Using any BI tool you have access to, create interactive visuals and a dashboard
     -  Are there patterns or changes in delivery times across different regions or product categories? 
 4. Create a screenshot of your main dashboard/visuals, and paste that into the designated field.
 5. Summarize your findings in an executive summary.
+
+Addapted from https://mavenanalytics.io/data-playground?dataStructure=Multiple%20tables&order=date_added%2Cdesc&page=2&pageSize=5
